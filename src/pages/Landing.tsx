@@ -330,7 +330,7 @@ export const Landing: React.FC = () => (
             <a href="https://github.com/LishaYUJ" target="_blank" rel="noreferrer" aria-label="GitHub">
               <Code2 aria-hidden="true" />
             </a>
-            <a href="https://www.linkedin.com/in/lisha-y/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/lisha-y-680278365/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
               <ContactRound aria-hidden="true" />
             </a>
             <a href="mailto:lyuj137@aucklanduni.ac.nz" aria-label="Email">
