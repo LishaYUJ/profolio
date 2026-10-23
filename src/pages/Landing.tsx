@@ -11,7 +11,7 @@ import aucklandEyeDashboard from '../assets/auckland-eye-dashboard.png';
 import aucklandEyeDashboardMotion from '../assets/auckland-eye-dashboard.gif';
 import aucklandEyeMobile from '../assets/auckland-eye-mobile.png';
 import chessboardCover from '../assets/chessboard-cover.png';
-import sleepyKoalaCover from '../assets/landingpage.png';
+import sleepyKoalaCover from '../assets/sleepy-koala-cover.png';
 import './Landing.css';
 
 type PortfolioItem = {
